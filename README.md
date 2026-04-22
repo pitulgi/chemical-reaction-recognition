@@ -31,7 +31,7 @@
 pip install numpy pandas matplotlib scikit-learn seaborn openpyxl
 ```
 ## 2. Запуск
-###Запустите первый скрипт для создания датасета: 
+### Запустите первый скрипт для создания датасета: 
 ```bash
 python generate_data.py
 ```
@@ -48,7 +48,7 @@ python generate_data.py
 
 Результат сохраняется в data.csv и data.xlsx
 
-###Запустите второй скрипт:
+### Запустите второй скрипт:
 ```bash
 python main.py
 ```
